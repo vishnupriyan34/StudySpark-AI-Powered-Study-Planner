@@ -43,20 +43,13 @@ Core Logic:
 📌 Tasks are ordered by priority → due date proximity → subject difficulty
 📈 Weak subjects automatically receive extra study sessions
 💡 Each session includes a contextual tip — practice-based, revision-based, or understanding-based — depending on subject and urgency
-
 🧩 Use Cases
 🎓 Exam Prep — Auto‑generate timetables based on exam dates.
-
 📅 Daily Planning — Organize tasks into IST‑accurate schedules.
-
 📊 Productivity Tracking — Monitor focus hours and Pomodoro logs.
-
 📘 Weak Subject Focus — Allocate extra time to weaker subjects.
-
 🍅 Pomodoro Sessions — Stay consistent with 25/5 focus cycles.
-
 💡 AI Study Tips — Get personalized revision and learning advice.
-
 💬 Chatbot Help — Ask for study guidance and motivation.
 
 👨‍💼 Admin Monitoring — Track student performance and publish updates.
