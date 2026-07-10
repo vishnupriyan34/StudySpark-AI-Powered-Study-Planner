@@ -122,12 +122,6 @@ Deployment: Netlify / Vercel
 
 Time Engine: IST‑based scheduling logic
 
-🔑 Seed Accounts
-👨‍💼 Admin
-Email: admin@planner.com
-
-Password: admin123
-
 🎓 Student
 Sign up directly on the landing page.
 
