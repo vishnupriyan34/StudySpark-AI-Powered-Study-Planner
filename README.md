@@ -2,8 +2,10 @@
 StudySpark is a full‑stack intelligent study management system designed to help students plan tasks, prepare for exams, track productivity, log Pomodoro sessions, and receive personalized AI‑generated study tips.
 It features IST‑accurate scheduling, auto‑generated timetables, weak‑subject detection, chatbot assistance, and a modern dashboard for complete study workflow automation.
 
+---------------------------------------------
 🚀 Live Project
 👉 https://studysparkedu.onrender.com/
+---------------------------------------------
 
 ✨ Features
 🕒 Indian Standard Time (IST) Engine
