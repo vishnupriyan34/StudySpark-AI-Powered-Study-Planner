@@ -2,7 +2,7 @@
 
 ### *Spark your plan... Light up your grades...*
 
-##🚀 **StudySpark is a full-stack, AI-powered web application built to help students plan, organize, and stay on top of their exam preparation.** It generates personalized daily/weekly study plans based on subjects, exam dates, tasks, and available study time — all synced to **Indian Standard Time (IST)**.
+🚀 **StudySpark is a full-stack, AI-powered web application built to help students plan, organize, and stay on top of their exam preparation.** It generates personalized daily/weekly study plans based on subjects, exam dates, tasks, and available study time — all synced to **Indian Standard Time (IST)**.
 -------------------------------------------
 ## 🚀 Live Project
 👉https://studysparkedu.onrender.com/
